@@ -1,0 +1,2 @@
+# Java-II-Final-Project
+A bank interface which allows new users to create a new account and specify which account types they would like. Also, allows users to withdraw and deposit money into their specific type of account. Then allows the bank operator to download all the accounts to a file or upload accounts from separate files either creating a new user if there is no previous data for the user, or appending the user's already existing account data.
